@@ -1,0 +1,502 @@
+[
+    {
+        "richiesta": "Ciao, ho notato che nel sito non c'\u00e8 l'alunno Abdelhalim Barcelloni, classe 4A, indirizzo SCIENZE UMANE - OPZ. ECONOMICO SOCIALE. Potete dare un'occhiata? Grazi.",
+        "ruolo": "Dirigente scolastico dell'istituto RMPM17500R",
+        "modifiche": "Errore nel nome e omissione del codice SIDI"
+    },
+    {
+        "richiesta": "Salve, perch\u00e9 non vedo il nome di codice SIDI 6096905 nella lista studenti per la classe 5 sezione I, indirizzo GRAFICA? Grazie.",
+        "ruolo": "Segreteria scolastica dell'istituto RMIS08200L",
+        "modifiche": "Rimosso il nome dello studente"
+    },
+    {
+        "richiesta": "Buon giorno, manca Abderrahman Scotti dalla classe 1B, indirizzo GIURIDICO ECONOMICO. Potete controllare sul sito? Grazie.",
+        "ruolo": "Dirigente scolastico dell'istituto RMPL07500N",
+        "modifiche": "Omissione del codice SIDI e semplificazione dell'indirizzo"
+    },
+    {
+        "richiesta": "Salve, lo studente codice SIDI 4419556 non \u00e8 nell'elenco per la classe 3H, indirizzo SCIENTIFICO - OPZIONE SCIENZE APPLICATE. Potete verificare? Grazie.",
+        "ruolo": "Segreteria scolastica dell'istituto RMIS12300N",
+        "modifiche": "Rimosso il nome dello studente"
+    },
+    {
+        "richiesta": "Buongiorno, segnalo che Abdossalam Cuniglio non \u00e8 nella lista della classe 1H, indirizzo SCIENTIFICO. Potreste dare un'occhiata? Grazie.",
+        "ruolo": "Dirigente scolastico dell'istituto RMPS26000V",
+        "modifiche": "Omissione del codice SIDI"
+    },
+    {
+        "richiesta": "Salve, perch\u00e9 non vedo Abril Milagros Ferro nella lista per la classe 4E, indirizzo SCIENTIFICO? Grazie.",
+        "ruolo": "Segreteria scolastica dell'istituto RMPS10000A",
+        "modifiche": "Omissione del codice SIDI"
+    },
+    {
+        "richiesta": "Buongiorno, Adele Sottile non compare nella lista della classe 5P, indirizzo ENOGASTRONOMIA. Potete controllare? Grazie.",
+        "ruolo": "Dirigente scolastico dell'istituto RMRC03000T",
+        "modifiche": "Omissione del codice SIDI e semplificazione dell'indirizzo"
+    },
+    {
+        "richiesta": "Salve, il codice SIDI 9189088 non \u00e8 presente per la classe 3INF, indirizzo OPERATORE INFORMATICO. Potete chiarire? Grazie.",
+        "ruolo": "Segreteria scolastica dell'istituto RMCF03300A",
+        "modifiche": "Rimosso il nome dello studente"
+    },
+    {
+        "richiesta": "Buongiorno, lo studente Adelin Drappo non \u00e8 nella lista della classe 1G, indirizzo LINGUISTICO. Potreste verificare? Grazie.",
+        "ruolo": "Dirigente scolastico dell'istituto RMPS53000N",
+        "modifiche": "Omissione del codice SIDI"
+    },
+    {
+        "richiesta": "Ciao, perch\u00e9 il codice SIDI 12231993 \u00e8 assente dalla lista per la classe 4BL, indirizzo SCIENTIFICO - OPZIONE SCIENZE APPLICATE? Grazie.",
+        "ruolo": "Segreteria scolastica dell'istituto RMIS084008",
+        "modifiche": "Rimosso il nome dello studente"
+    },
+    {
+        "richiesta": "Ciao, manca lo studente ADELIN DUMITRU PODESTA' RIZZATTO, classe 2 sezione B, indirizzo SCIENTIFICO. Potete dirmi qualcosa?",
+        "ruolo": "Dirigente scolastico dell'istituto RMIS069006",
+        "modifiche": "Errore nel nome e sezione, rimosso SIDI"
+    },
+    {
+        "richiesta": "Buongiorno, non trovo sull'elenco ADEM SYKU, SIDI 10916006. Potete verificare?",
+        "ruolo": "Segreteria scolastica dell'istituto RMIS09400V",
+        "modifiche": "Rimosso classe, sezione e indirizzo"
+    },
+    {
+        "richiesta": "Salve, ADINA VALCESCHINI non \u00e8 nell'elenco, classe 4 sezione A, indirizzo INFORMATICA. Sapete perch\u00e9?",
+        "ruolo": "Dirigente scolastico dell'istituto RMTF18500C",
+        "modifiche": "Rimosso SIDI"
+    },
+    {
+        "richiesta": "Ciao staff, AGNESE CRESPO non \u00e8 nell'elenco online, SIDI 6481733. Potete chiarire?",
+        "ruolo": "Segreteria scolastica dell'istituto RMPC320006",
+        "modifiche": "Rimosso classe, sezione e indirizzo"
+    },
+    {
+        "richiesta": "Buongiorno, AGNESE RAVA manca dall'elenco, classe 1 sezione AES. Avete spiegazioni?",
+        "ruolo": "Dirigente scolastico dell'istituto RMPMQB5004",
+        "modifiche": "Rimosso SIDI e indirizzo"
+    },
+    {
+        "richiesta": "Salve, non vedo AGNESE IORILLO, SIDI 11643854, sul sito. Potete fornire chiarimenti?",
+        "ruolo": "Segreteria scolastica dell'istituto RMPSVP500H",
+        "modifiche": "Rimosso classe, sezione e indirizzo"
+    },
+    {
+        "richiesta": "Gentile amministrazione, AGNESE CRESPO, classe 5 sezione BE, manca dall'elenco. Motivo?",
+        "ruolo": "Dirigente scolastico dell'istituto RMIS084008",
+        "modifiche": "Rimosso SIDI e indirizzo"
+    },
+    {
+        "richiesta": "Buongiorno, AGOSTINO GATTO, classe 4 sezione P, indirizzo LINGUISTICO, non c'\u00e8 sul sito. Delucidazioni?",
+        "ruolo": "Segreteria scolastica dell'istituto RMPC320006",
+        "modifiche": "Rimosso SIDI"
+    },
+    {
+        "richiesta": "Salve, AICHA NEPOTE ANDRE' \u00e8 assente dall'elenco, SIDI 11148691. Qualche info?",
+        "ruolo": "Dirigente scolastico dell'istituto RMTN8V500Q",
+        "modifiche": "Rimosso classe, sezione e indirizzo"
+    },
+    {
+        "richiesta": "Gentile staff, AICHA SATTA, classe 1 sezione A, non \u00e8 nell'elenco. Sapete il motivo?",
+        "ruolo": "Segreteria scolastica dell'istituto RMTL08500Q",
+        "modifiche": "Rimosso SIDI e indirizzo"
+    },
+    {
+        "richiesta": "Buongiorno, vorrei segnalare che lo studente AJLA MANGIONI della classe 4 sezione A dell'indirizzo SERVIZI COMMERCIALI non \u00e8 presente nell'elenco sul sito istituzionale. Potreste fornire chiarimenti in merito?",
+        "ruolo": "Segreteria scolastica dell'istituto RMIS05700X",
+        "modifiche": "Rimosso SIDI, errore nel nome studente"
+    },
+    {
+        "richiesta": "Salve, perch\u00e9 lo studente con SIDI 11651400 della classe 5 sezione U del CLASSICO non compare nell'elenco sul sito? Potete spiegare?",
+        "ruolo": "Dirigente scolastico dell'istituto RMPC185007",
+        "modifiche": "Rimosso nominativo studente, abbreviato richiesta"
+    },
+    {
+        "richiesta": "Gentili signori, ALBERTO DANIELE della classe 4 A dell'indirizzo AMMINISTRAZIONE FINANZA E MARKETING - TRIENNIO non \u00e8 nell'elenco sul sito. Spiegazioni?",
+        "ruolo": "Segreteria scolastica dell'istituto RMTD325008",
+        "modifiche": "Rimosso SIDI, abbreviato richiesta"
+    },
+    {
+        "richiesta": "Buongiorno, vorrei sapere perch\u00e9 ALBERTO BECCARI della 1 sezione N GRAFICA E COMUNICAZIONE non risulta nell'elenco sul sito. Chiarimenti?",
+        "ruolo": "Dirigente scolastico dell'istituto RMIS118006",
+        "modifiche": "Rimosso SIDI, errore nel nome studente"
+    },
+    {
+        "richiesta": "Salve, segnalo che con SIDI 9298206 della 4 ASP AMMINISTRAZIONE FINANZA E MARKETING - TRIENNIO non \u00e8 incluso nell'elenco. Chiarimenti?",
+        "ruolo": "Segreteria scolastica dell'istituto RMTD48000N",
+        "modifiche": "Rimosso nominativo studente"
+    },
+    {
+        "richiesta": "Gentili signori, ALBERTO PAGANELLI della 3 B ENOGASTRONOMIA E OSPITALIT\u00c0 ALBERGHIERA non appare sul sito. Spiegazioni?",
+        "ruolo": "Dirigente scolastico dell'istituto RMRH04000N",
+        "modifiche": "Rimosso SIDI, abbreviato richiesta"
+    },
+    {
+        "richiesta": "Buongiorno, segnalo che ALBERTO FRISIERO della 3 I SCIENTIFICO non \u00e8 nell'elenco sul sito. Chiarimenti?",
+        "ruolo": "Segreteria scolastica dell'istituto RMPS44000B",
+        "modifiche": "Rimosso SIDI, abbreviato richiesta"
+    },
+    {
+        "richiesta": "Salve, perch\u00e9 lo studente con SIDI 8986572 della 2 A MECC. MECCATRON. ENER. non compare sul sito? Spiegazioni?",
+        "ruolo": "Dirigente scolastico dell'istituto RMTF010006",
+        "modifiche": "Rimosso nominativo studente, abbreviato richiesta"
+    },
+    {
+        "richiesta": "Gentili signori, ALBERTO SCHIAVENZA della 4 DPT PRODUZIONI E TRASFORMAZIONI non \u00e8 nell'elenco sul sito. Spiegazioni?",
+        "ruolo": "Segreteria scolastica dell'istituto RMTA070005",
+        "modifiche": "Rimosso SIDI, abbreviato richiesta"
+    },
+    {
+        "richiesta": "Buongiorno, perch\u00e9 ALBERTO MONGE della 2 M LINGUISTICO non risulta sul sito? Chiarimenti?",
+        "ruolo": "Dirigente scolastico dell'istituto RMIS10600X",
+        "modifiche": "Rimosso SIDI, abbreviato richiesta"
+    },
+    {
+        "richiesta": "Buongiorno, ho notato che ALBERTO TENDIA non \u00e8 nell'elenco sul sito. Sapete dirmi perch\u00e9?",
+        "ruolo": "Segreteria scolastica dell'istituto RMTF110003",
+        "modifiche": "Nome errato, rimosso classe, sezione, indirizzo, codice SIDI"
+    },
+    {
+        "richiesta": "Salve, mi chiedo come mai il codice SIDI 8524141 non sia presente nell'elenco online. Potreste verificare?",
+        "ruolo": "Dirigente scolastico dell'istituto RMTB02000G",
+        "modifiche": "Rimosso nome studente, classe, sezione, indirizzo"
+    },
+    {
+        "richiesta": "Buongiorno, ALBERTO DALMASSI non si trova nell'elenco della classe 4A. Avete info?",
+        "ruolo": "Segreteria scolastica dell'istituto RMPMR25005",
+        "modifiche": "Nome errato, rimosso indirizzo, codice SIDI"
+    },
+    {
+        "richiesta": "Salve, il codice SIDI 8771906 sembra mancare dall'elenco del sito. Potete spiegare?",
+        "ruolo": "Dirigente scolastico dell'istituto RMPS31000P",
+        "modifiche": "Rimosso nome studente, classe, sezione, indirizzo"
+    },
+    {
+        "richiesta": "Buongiorno, ALBERTO DALMASO non risulta nell'elenco online per la classe 4HL. Potete chiarire?",
+        "ruolo": "Segreteria scolastica dell'istituto RMPS090001",
+        "modifiche": "Nome errato, rimosso indirizzo, codice SIDI"
+    },
+    {
+        "richiesta": "Salve, mi chiedo perch\u00e9 il codice SIDI 8021395 non appare nell'elenco sul sito. Avete informazioni?",
+        "ruolo": "Dirigente scolastico dell'istituto RMIS05300L",
+        "modifiche": "Rimosso nome studente, classe, sezione, indirizzo"
+    },
+    {
+        "richiesta": "Buongiorno, ALBERTO RALLO non \u00e8 nell'elenco della 1A. Potete fornire spiegazioni?",
+        "ruolo": "Segreteria scolastica dell'istituto RMPST6500P",
+        "modifiche": "Rimosso indirizzo, codice SIDI"
+    },
+    {
+        "richiesta": "Salve, il codice SIDI 9189303 manca dall'elenco pubblicato. Potreste chiarire?",
+        "ruolo": "Dirigente scolastico dell'istituto RMPC05000B",
+        "modifiche": "Rimosso nome studente, classe, sezione, indirizzo"
+    },
+    {
+        "richiesta": "Buongiorno, ALBERTO GALVAGNA non \u00e8 nell'elenco per la classe 2A. Sapete perch\u00e9?",
+        "ruolo": "Segreteria scolastica dell'istituto RMSL3M5001",
+        "modifiche": "Rimosso indirizzo, codice SIDI"
+    },
+    {
+        "richiesta": "Salve, il codice SIDI 10684037 non si trova nell'elenco sul sito. Avete spiegazioni?",
+        "ruolo": "Dirigente scolastico dell'istituto RMTD70500E",
+        "modifiche": "Rimosso nome studente, classe, sezione, indirizzo"
+    },
+    {
+        "richiesta": "Salve, vorrei sapere perch\u00e9 lo studente ALBERTO LECIA, classe 2 sezione CL indirizzo LINGUISTICO non \u00e8 presente nell'elenco sul sito istituzionale.",
+        "ruolo": "Segreteria scolastica dell'istituto RMPC40000T",
+        "modifiche": "Errore di battitura nel nome, rimosso SIDI"
+    },
+    {
+        "richiesta": "Buongiorno, potrei avere informazioni sull'assenza nell'elenco del codice SIDI 13009316?",
+        "ruolo": "Dirigente scolastico dell'istituto RMPMPL5008",
+        "modifiche": "Rimosso il nome dello studente"
+    },
+    {
+        "richiesta": "Gentile amministrazione, desidero sapere il motivo per cui il codice SIDI 7130569 non compare nell'elenco sul sito.",
+        "ruolo": "Segreteria scolastica dell'istituto RMIS112007",
+        "modifiche": "Rimosso il nome dello studente"
+    },
+    {
+        "richiesta": "Salve, chiedo delucidazioni sull'assenza dello studente ALBERTO PALIUCA, classe 3 sezione A indirizzo CLASSICO.",
+        "ruolo": "Dirigente scolastico dell'istituto RMPC545008",
+        "modifiche": "Errore di battitura nel nome, rimosso SIDI"
+    },
+    {
+        "richiesta": "Buongiorno, potrei sapere perch\u00e9 il codice SIDI 13129605 non \u00e8 presente nell'elenco sul sito istituzionale?",
+        "ruolo": "Segreteria scolastica dell'istituto RMIS11600E",
+        "modifiche": "Rimosso il nome dello studente"
+    },
+    {
+        "richiesta": "Gentile segreteria, vorrei avere informazioni riguardo l'assenza di ALBERTO GUASCHINO, classe 5 sezione AR indirizzo RELAZIONI INTERNAZIONALI.",
+        "ruolo": "Dirigente scolastico dell'istituto RMTD67500X",
+        "modifiche": "Accorciato indirizzo, rimosso SIDI"
+    },
+    {
+        "richiesta": "Salve, chiedo chiarimenti sull'assenza del codice SIDI 8768865 dall'elenco sul sito.",
+        "ruolo": "Segreteria scolastica dell'istituto RMTD665009",
+        "modifiche": "Rimosso il nome dello studente"
+    },
+    {
+        "richiesta": "Buongiorno, desidererei sapere perch\u00e9 lo studente ALBERTO PIETRO DESTEFANIS non \u00e8 presente nell'elenco.",
+        "ruolo": "Dirigente scolastico dell'istituto RMIS04600D",
+        "modifiche": "Rimosso classe, sezione e indirizzo"
+    },
+    {
+        "richiesta": "Gentile segreteria, vorrei sapere il motivo per cui ALBI LONGHI, classe 4 sezione A indirizzo SCIENTIFICO, non compare nell'elenco.",
+        "ruolo": "Segreteria scolastica dell'istituto RMPST6500P",
+        "modifiche": "Accorciato indirizzo, rimosso SIDI"
+    },
+    {
+        "richiesta": "Salve, potrei avere informazioni sull'assenza del codice SIDI 6079502?",
+        "ruolo": "Dirigente scolastico dell'istituto RMPMQB5004",
+        "modifiche": "Rimosso il nome dello studente"
+    },
+    {
+        "richiesta": "Buongiorno, vorrei sapere perch\u00e9 manca ALESSIA APPRUZZESE, classe 3 sezione CES, indirizzo SCIENZE UMANA - OPZ. ECONOMICO SOCIALE, dall'elenco sul sito.",
+        "ruolo": "Dirigente scolastico dell'istituto RMIS01600N",
+        "modifiche": "Errore nel nome e indirizzo, rimosso SIDI"
+    },
+    {
+        "richiesta": "Salve, c'\u00e8 un motivo per cui il codice SIDI 9064675 non \u00e8 nell'elenco del sito?",
+        "ruolo": "Segreteria scolastica dell'istituto RMTD58500N",
+        "modifiche": "Usato SIDI, rimosso nome e dettagli classe"
+    },
+    {
+        "richiesta": "Buongiorno, mi chiedo perch\u00e9 ALESIA ORLANDI non appare nell'elenco, \u00e8 in classe 5B, ENOGASTRONOMIA.",
+        "ruolo": "Dirigente scolastico dell'istituto RMIS03100Q",
+        "modifiche": "Errore nel nome e indirizzo, rimosso SIDI"
+    },
+    {
+        "richiesta": "Salve, perch\u00e9 lo studente con SIDI 9064675 non \u00e8 presente sul sito?",
+        "ruolo": "Segreteria scolastica dell'istituto RMTD58500N",
+        "modifiche": "Usato SIDI, rimosso nome e dettagli classe"
+    },
+    {
+        "richiesta": "Buongiorno, vorrei sapere perch\u00e9 ALESSANDRA BORILLE non \u00e8 nell'elenco, classe 4A SCIENTIFICO.",
+        "ruolo": "Dirigente scolastico dell'istituto RMPS0V500L",
+        "modifiche": "Rimosso SIDI e dettaglio indirizzo"
+    },
+    {
+        "richiesta": "Salve, motivo per cui ALESSANDRA ARESE, classe 3B INFORMATICA, non \u00e8 sul sito?",
+        "ruolo": "Segreteria scolastica dell'istituto RMIS084008",
+        "modifiche": "Errore nella sezione, rimosso SIDI"
+    },
+    {
+        "richiesta": "Buongiorno, vorrei sapere il motivo dell'assenza del codice SIDI 6387765 dall'elenco.",
+        "ruolo": "Dirigente scolastico dell'istituto RMRF00500V",
+        "modifiche": "Usato SIDI, rimosso nome e dettagli classe"
+    },
+    {
+        "richiesta": "Salve, perch\u00e9 ALESSANDRA GALLIANO, classe 4G, indirizzo COSTRUZIONI, manca dall'elenco?",
+        "ruolo": "Segreteria scolastica dell'istituto RMTD07000G",
+        "modifiche": "Errore nel nome dell'indirizzo, rimosso SIDI"
+    },
+    {
+        "richiesta": "Buongiorno, perch\u00e9 non vedo il nome ALESSANDRA DEFILIPPI nell'elenco? \u00c8 in classe 2BS SCIENTIFICO.",
+        "ruolo": "Dirigente scolastico dell'istituto RMIS06200B",
+        "modifiche": "Rimosso SIDI"
+    },
+    {
+        "richiesta": "Salve, il codice SIDI 12218849 \u00e8 assente dall'elenco sul sito, potrei sapere perch\u00e9?",
+        "ruolo": "Segreteria scolastica dell'istituto RMPL50500Q",
+        "modifiche": "Usato SIDI, rimosso nome e dettagli classe"
+    },
+    {
+        "richiesta": "Buongiorno, vorrei sapere perch\u00e9 lo studente Alessandra Zampinni della classe 2B, indirizzo ENOGASTRONOMIA E OSPITALIT\u00c0 ALBERGHIERA, non \u00e8 presente nell'elenco sul sito istituzionale.",
+        "ruolo": "Dirigente scolastico dell'istituto RMRH06000V",
+        "modifiche": "Errore nel nome, rimosso codice SIDI"
+    },
+    {
+        "richiesta": "Salve, richiedo info sull'assenza della studentessa con codice SIDI 13782283 dall'elenco sul sito istituzionale.",
+        "ruolo": "Segreteria scolastica dell'istituto RMTAPV5005",
+        "modifiche": "Rimosso nome, classe e indirizzo"
+    },
+    {
+        "richiesta": "Buongiorno, vorrei chiarimenti sulla mancata presenza della studentessa Alessandra Pistoni della classe 5BS, indirizzo SCIENTIFICO - OPZIONE SCIENZE APPLICATE, nell'elenco disponibile sul sito istituzionale.",
+        "ruolo": "Dirigente scolastico dell'istituto RMIS121002",
+        "modifiche": "Errore nel nome, rimosso codice SIDI"
+    },
+    {
+        "richiesta": "Salve, desidero sapere perch\u00e9 la studentessa con codice SIDI 13580148 non compare nell'elenco sul sito istituzionale.",
+        "ruolo": "Segreteria scolastica dell'istituto RMRH01000T",
+        "modifiche": "Rimosso nome, classe e indirizzo"
+    },
+    {
+        "richiesta": "Buongiorno, richiedo spiegazioni sull'assenza dello studente Alessandro Paganini della classe 2B, indirizzo INFOR. TELECOM. - BIENNIO COMUNE, dall'elenco presente sul sito istituzionale.",
+        "ruolo": "Dirigente scolastico dell'istituto RMTF040002",
+        "modifiche": "Errore nel nome, rimosso codice SIDI"
+    },
+    {
+        "richiesta": "Salve, vorrei sapere perch\u00e9 lo studente con codice SIDI 4585658 non \u00e8 elencato sul sito istituzionale.",
+        "ruolo": "Segreteria scolastica dell'istituto RMRI08000G",
+        "modifiche": "Rimosso nome, classe e indirizzo"
+    },
+    {
+        "richiesta": "Buongiorno, richiedo informazioni sulla mancanza dello studente Alessandro Lingua della classe 3B, indirizzo GRAFICA, nell'elenco sul sito istituzionale.",
+        "ruolo": "Dirigente scolastico dell'istituto RMIS104008",
+        "modifiche": "Rimosso codice SIDI"
+    },
+    {
+        "richiesta": "Salve, desidero chiarimenti sull'assenza dello studente con codice SIDI 10880283 dall'elenco sul sito istituzionale.",
+        "ruolo": "Segreteria scolastica dell'istituto RMPL135004",
+        "modifiche": "Rimosso nome, classe e indirizzo"
+    },
+    {
+        "richiesta": "Buongiorno, vorrei sapere perch\u00e9 lo studente Alessandro Serninni della classe 4C, indirizzo DESIGN - METALLI OREFICERIA E CORALLO, non \u00e8 presente nell'elenco sul sito istituzionale.",
+        "ruolo": "Dirigente scolastico dell'istituto RMIS05200R",
+        "modifiche": "Errore nel nome, rimosso codice SIDI"
+    },
+    {
+        "richiesta": "Salve, richiedo informazioni sull'assenza dello studente con codice SIDI 13176756 dall'elenco sul sito istituzionale.",
+        "ruolo": "Segreteria scolastica dell'istituto RMIC8GU00D",
+        "modifiche": "Rimosso nome, classe e indirizzo"
+    },
+    {
+        "richiesta": "Buongiorno, vorrei sapere perch\u00e9 lo studente Alessandro Boinifacino, classe 1 sezione E, indirizzo Scientifico, non \u00e8 nell'elenco sul sito. Potete aiutarmi?",
+        "ruolo": "Dirigente scolastico dell'istituto RMIS069006",
+        "modifiche": "Rimosso SIDI, errore nel nome"
+    },
+    {
+        "richiesta": "Salve, mi chiedo perch\u00e9 manca lo studente con SIDI 9686633 dalla lista online. Potreste darmi info?",
+        "ruolo": "Segreteria scolastica dell'istituto RMIS11600E",
+        "modifiche": "Rimosso nome e dettagli della classe"
+    },
+    {
+        "richiesta": "Gentili responsabili, perch\u00e9 Alessandro Marengo, classe 2 sezione ANT, non \u00e8 nell'elenco sul sito?",
+        "ruolo": "Dirigente scolastico dell'istituto RMIS09400V",
+        "modifiche": "Rimosso indirizzo e SIDI"
+    },
+    {
+        "richiesta": "Buongiorno, mi chiedo l'assenza di Alessandro Ivaldi, indirizzo Scuola Secondaria di I Grado, con SIDI 13318334 dall'elenco online.",
+        "ruolo": "Segreteria scolastica dell'istituto RMIC8E100R",
+        "modifiche": "Rimosso classe e sezione"
+    },
+    {
+        "richiesta": "Salve, cerco info sull'assenza di Alessandro Pincetti, classe 4 sezione H, indirizzo Architettura e Ambiente.",
+        "ruolo": "Dirigente scolastico dell'istituto RMIS02300R",
+        "modifiche": "Rimosso SIDI"
+    },
+    {
+        "richiesta": "Gentili colleghi, noto che non c'\u00e8 Alessandro Aimasso, con SIDI 7590705, nella lista online. Sapete perch\u00e9?",
+        "ruolo": "Segreteria scolastica dell'istituto RMTD545007",
+        "modifiche": "Rimosso classe, sezione e indirizzo"
+    },
+    {
+        "richiesta": "Buongiorno, perch\u00e9 Alessandro Sala', classe 3 sezione F, indirizzo Grafica, manca nell'elenco online?",
+        "ruolo": "Dirigente scolastico dell'istituto RMSD06000G",
+        "modifiche": "Rimosso SIDI"
+    },
+    {
+        "richiesta": "Salve, vorrei sapere perch\u00e9 lo studente con SIDI 8986330 non \u00e8 incluso nella lista istituzionale online.",
+        "ruolo": "Segreteria scolastica dell'istituto RMIS10300C",
+        "modifiche": "Rimosso nome, classe, sezione e indirizzo"
+    },
+    {
+        "richiesta": "Gentili responsabili, mi chiedo perch\u00e9 Alessandro Rubiolo, classe 1 sezione AG, non \u00e8 nell'elenco online.",
+        "ruolo": "Dirigente scolastico dell'istituto RMIS099002",
+        "modifiche": "Rimosso indirizzo e SIDI"
+    },
+    {
+        "richiesta": "Buongiorno, come mai Alessandro Alciati, con SIDI 13371496, non appare nell'elenco sul sito?",
+        "ruolo": "Segreteria scolastica dell'istituto RMIS013006",
+        "modifiche": "Rimosso classe, sezione e indirizzo"
+    },
+    {
+        "richiesta": "Ciao, mi chiedevo perch\u00e9 Alessandro Cordero, della 1D Scientifico, non risulta nella lista online.",
+        "ruolo": "Segreteria scolastica dell'istituto RMPS26000V",
+        "modifiche": "Rimosso codice SIDI, introdotto errore di battitura 'Scientifico'."
+    },
+    {
+        "richiesta": "Salve, per caso sapete perch\u00e9 il codice SIDI 10019204 non \u00e8 nell'elenco sul sito?",
+        "ruolo": "Dirigente scolastico dell'istituto RMPS53000N",
+        "modifiche": "Rimosso nominativo studente, mantenuto codice SIDI, resa meno formale."
+    },
+    {
+        "richiesta": "Gentile ammistrazione, come mai Alessandro Ramaiti non \u00e8 nell'elenco? \u00c8 della 1U Operatore Elettrico.",
+        "ruolo": "Segreteria scolastica dell'istituto RMCF012009",
+        "modifiche": "Corretto errore di battitura nel cognome, rimosso codice SIDI."
+    },
+    {
+        "richiesta": "Buongiorno, mi chiedevo perch\u00e9 il codice SIDI 2992968 non \u00e8 presente nella lista del sito.",
+        "ruolo": "Dirigente scolastico dell'istituto RMRH04000N",
+        "modifiche": "Rimosso nominativo studente, mantenuto codice SIDI."
+    },
+    {
+        "richiesta": "Salve, perch\u00e9 Alessandro Cibin non \u00e8 nell'elenco? \u00c8 della 1D Amm. Finan. Marketing.",
+        "ruolo": "Segreteria scolastica dell'istituto RMTD640001",
+        "modifiche": "Rimosso codice SIDI, abbreviato indirizzo."
+    },
+    {
+        "richiesta": "Gentile amministrazione, perch\u00e9 il codice SIDI 13434666 non \u00e8 incluso nell'elenco?",
+        "ruolo": "Dirigente scolastico dell'istituto RMIC820005",
+        "modifiche": "Rimosso nominativo studente, mantenuto codice SIDI."
+    },
+    {
+        "richiesta": "Buongiorno, desidero sapere perch\u00e9 Alessandro Morando non \u00e8 nella lista sul sito.",
+        "ruolo": "Segreteria scolastica dell'istituto RMPM4G5004",
+        "modifiche": "Rimosso codice SIDI, resa pi\u00f9 diretta."
+    },
+    {
+        "richiesta": "Salve, sapete perch\u00e9 il codice SIDI 12289589 non compare nella lista?",
+        "ruolo": "Dirigente scolastico dell'istituto RMTD48000N",
+        "modifiche": "Rimosso nominativo studente, mantenuto codice SIDI."
+    },
+    {
+        "richiesta": "Gentile ammistrazione, perch\u00e9 Alessandro Gallo della 1AL Linguistico non \u00e8 nell'elenco?",
+        "ruolo": "Segreteria scolastica dell'istituto RMPM07000R",
+        "modifiche": "Rimosso codice SIDI, errore di battitura 'ammistrazione'."
+    },
+    {
+        "richiesta": "Buongiorno, perch\u00e9 il codice SIDI 3884660 non \u00e8 presente nell'elenco?",
+        "ruolo": "Dirigente scolastico dell'istituto RMPMSC500I",
+        "modifiche": "Rimosso nominativo studente, mantenuto codice SIDI."
+    },
+    {
+        "richiesta": "Buongiorno, vorrei segnalare che lo studente Alessadro Barbero, classe 1 sezione B dell'indirizzo Scientifico, non risulta presente nell'elenco sul sito istituzionale. Potreste verificare per favore?",
+        "ruolo": "Dirigente scolastico dell'istituto RMPS39000G",
+        "modifiche": "Errore di battitura nel nome, rimosso codice SIDI"
+    },
+    {
+        "richiesta": "Salve, desidero avere informazioni riguardo l'assenza nell'elenco dello studente della classe 5 sezione C della Scuola Primaria, codice SIDI 17614772. Potreste controllare?",
+        "ruolo": "Segreteria scolastica dell'istituto RMIC82300L",
+        "modifiche": "Rimosso nominativo studente"
+    },
+    {
+        "richiesta": "Buongiorno, lo studente Alessandro Cucinschi, della classe 4 sezione H dell'indirizzo Scientifico, non appare nell'elenco sul sito. Potreste fornire chiarimenti?",
+        "ruolo": "Dirigente scolastico dell'istituto RMIS12300N",
+        "modifiche": "Rimosso opzione Scienze Applicate, rimosso codice SIDI"
+    },
+    {
+        "richiesta": "Salve, segnalo che lo studente della classe 4 sezione A dell'indirizzo Scienze Umane, codice SIDI 9753862, non \u00e8 presente nell'elenco online. \u00c8 possibile verificare?",
+        "ruolo": "Segreteria scolastica dell'istituto RMPM3Q500P",
+        "modifiche": "Rimosso nominativo studente"
+    },
+    {
+        "richiesta": "Buongiorno, vorrei sapere perch\u00e9 lo studente Alessandro Peirano, della classe 3 sezione B FM, non compare nell'elenco sul sito istituzionale.",
+        "ruolo": "Dirigente scolastico dell'istituto RMIS10200L",
+        "modifiche": "Rimosso indirizzo Amministrazione Finanza e Marketing, rimosso codice SIDI"
+    },
+    {
+        "richiesta": "Salve, lo studente della classe 3 sezione G dell'indirizzo Linguistico, codice SIDI 9422253, non risulta nell'elenco online. Potreste verificare?",
+        "ruolo": "Segreteria scolastica dell'istituto RMPS53000N",
+        "modifiche": "Rimosso nominativo studente"
+    },
+    {
+        "richiesta": "Buongiorno, lo studente Alessandro Motta, iscritto alla classe 2 sezione G dell'indirizzo Scientifico - Sezione ad Indirizzo Sportivo, non \u00e8 presente nell'elenco sul sito. Potreste fornire chiarimenti?",
+        "ruolo": "Dirigente scolastico dell'istituto RMIS064003",
+        "modifiche": "Rimosso codice SIDI"
+    },
+    {
+        "richiesta": "Salve, desidero sapere perch\u00e9 lo studente Alessandro Pardi, della classe 4 sezione D, non appare nell'elenco online. Potreste controllare?",
+        "ruolo": "Segreteria scolastica dell'istituto RMIS09700A",
+        "modifiche": "Rimosso indirizzo Grafica, rimosso codice SIDI"
+    },
+    {
+        "richiesta": "Buongiorno, lo studente Alessandroa Kajno della classe 4 sezione A dell'indirizzo Scienze Umane - Opz. Economico Sociale, non risulta nell'elenco sul sito. Potreste verificare?",
+        "ruolo": "Dirigente scolastico dell'istituto RMPMSC500I",
+        "modifiche": "Errore di battitura nel nome, rimosso codice SIDI"
+    },
+    {
+        "richiesta": "Salve, segnalo che la studentessa Alessia Martini, classe 5 sezione AI, codice SIDI 8202476, non \u00e8 presente nell'elenco online. \u00c8 possibile avere chiarimenti?",
+        "ruolo": "Segreteria scolastica dell'istituto RMIS05300L",
+        "modifiche": "Rimosso indirizzo Informatica"
+    }
+]

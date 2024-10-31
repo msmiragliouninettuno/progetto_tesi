@@ -1,0 +1,4 @@
+crewai==0.55.2
+crewai[tools]
+langchain-anthropic
+mysql-connector-python

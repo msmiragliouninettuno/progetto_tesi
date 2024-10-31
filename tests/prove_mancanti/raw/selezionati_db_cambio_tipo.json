@@ -1,0 +1,207 @@
+[
+    {
+        "richiesta": "Buongiorno, sono il Dirigente scolastico dell'istituto RMIS06100G. Manca la prova di Italiano per JOY ESOSA ZANETTI, codice SIDI 11645727, sul sito. Potete verificare?",
+        "ruolo": "Dirigente scolastico",
+        "modifiche": "Rimosso 'delucidazioni', abbreviato 'aggiornare la situazione'"
+    },
+    {
+        "richiesta": "Salve, qui Segreteria scolastica RMIS10600X. Mancante prova Italiano per NICOLO' MAZZOLA, codice SIDI 6317415. Chiarimenti?",
+        "ruolo": "Segreteria scolastica",
+        "modifiche": "Rimosso 'istituto', abbreviato 'elenco presente sul sito'"
+    },
+    {
+        "richiesta": "Buongiorno, sono Dirigente scolastico RMTF040002. Prova Inglese Listening assente per CHIARA ZIOUAL, codice SIDI 6856026. Indagate?",
+        "ruolo": "Dirigente scolastico",
+        "modifiche": "Rimosso 'istituto', abbreviato 'sito istituzionale'"
+    },
+    {
+        "richiesta": "Salve, Segreteria scolastica RMIS069006. Manca prova Italiano ANDREA VILLANI, codice SIDI 6875782. Controllo?",
+        "ruolo": "Segreteria scolastica",
+        "modifiche": "Rimosso 'istituto', abbreviato 'aggiornare'"
+    },
+    {
+        "richiesta": "Buongiorno, Dirigente scolastico RMIS069006. Assente prova Italiano ALESSIA BOTTINELLI, codice SIDI 9219833. Verifica?",
+        "ruolo": "Dirigente scolastico",
+        "modifiche": "Rimosso 'istituto', abbreviato 'chiarimenti sull'assenza'"
+    },
+    {
+        "richiesta": "Salve, Segreteria RMIS069006. Prova Italiano EMANUELE ARESE, codice SIDI 9347615, non trovata. Chiarimenti?",
+        "ruolo": "Segreteria scolastica",
+        "modifiche": "Rimosso 'scolastica dell'istituto', abbreviato 'elenco sul sito'"
+    },
+    {
+        "richiesta": "Buongiorno, Dirigente scolastico RMIS069006. Prova Italiano SARA GJOKA, codice SIDI 11518142, mancante. Indagine?",
+        "ruolo": "Dirigente scolastico",
+        "modifiche": "Rimosso 'istituto', abbreviato 'sito istituzionale'"
+    },
+    {
+        "richiesta": "Salve, sono il Dirigente scolastico dell'istituto RMPC150008. Mi chiedevo perch\u00e9 la prova di Italiano di PAOLA ABBANEO non \u00e8 sul sito. Codice SIDI 20597534. Potreste controllare?",
+        "ruolo": "Dirigente scolastico dell'istituto RMPC150008",
+        "modifiche": "Rimosso 'delucidazioni', errore nel nome 'PAOLA ABBANEO' mantenuto, ridotto dettaglio richiesta"
+    },
+    {
+        "richiesta": "Buongiorno, qui segreteria RMIC839006. La prova di Italiano di STEFANO DONNA manca sul sito. Codice SIDI 14259511. Qualche chiarimento?",
+        "ruolo": "Segreteria scolastica dell'istituto RMIC839006",
+        "modifiche": "Rimosso 'della Segreteria scolastica', errore nel nome 'STEFANO DONNA' mantenuto, ridotto dettaglio richiesta"
+    },
+    {
+        "richiesta": "Salve, segreteria scolastica RMIC8DE00D. Perch\u00e9 la prova di Italiano di FEDERICA DEMICHELI non \u00e8 sul sito? Codice SIDI 14279845. Potete aiutare?",
+        "ruolo": "Segreteria scolastica dell'istituto RMIC8DE00D",
+        "modifiche": "Rimosso 'qui \u00e8', errore nel nome 'FEDERICA DEMICHELI' mantenuto, ridotto dettaglio richiesta"
+    },
+    {
+        "richiesta": "Buongiorno, sono il Dirigente scolastico RMIC826004. La prova di Italiano di MARIA CHIARA CORAGLIA non si vede sul portale. Codice SIDI 14375966. Potete assistere?",
+        "ruolo": "Dirigente scolastico dell'istituto RMIC826004",
+        "modifiche": "Rimosso 'dell'istituto', errore nel nome 'MARIA CHIARA CORAGLIA' mantenuto, ridotto dettaglio richiesta"
+    },
+    {
+        "richiesta": "Salve, segreteria RMIC8A7009. La prova di Italiano di FEDERICA PONTA non \u00e8 sul sito. Codice SIDI 14408765. Maggiori info?",
+        "ruolo": "Segreteria scolastica dell'istituto RMIC8A7009",
+        "modifiche": "Rimosso 'scolastica dell'istituto', errore nel nome 'FEDERICA PONTA' mantenuto, ridotto dettaglio richiesta"
+    },
+    {
+        "richiesta": "Buongiorno, sono il Dirigente RMIC8BA001. Perch\u00e9 la prova di Italiano di ANDREA RONCARATI non si trova sul sito? Codice SIDI 14475474. Potete chiarire?",
+        "ruolo": "Dirigente scolastico dell'istituto RMIC8BA001",
+        "modifiche": "Rimosso 'scolastico dell'istituto', errore nel nome 'ANDREA RONCARATI' mantenuto, ridotto dettaglio richiesta"
+    },
+    {
+        "richiesta": "Salve, segreteria RMIC833007. Manca la prova di Inglese Reading di GIACOMO DEL GIUDICE sul sito. Codice SIDI 14487877. Potete verificare?",
+        "ruolo": "Segreteria scolastica dell'istituto RMIC833007",
+        "modifiche": "Rimosso 'scolastica dell'istituto', errore nel nome 'GIACOMO DEL GIUDICE' mantenuto, ridotto dettaglio richiesta"
+    },
+    {
+        "richiesta": "Ciao, non trovo la prova di Inglese Reading per Luca Gensio. Codice SIDI 14491168. Potete aiutarmi?",
+        "ruolo": "Dirigente scolastico dell'istituto RMIC8EU008",
+        "modifiche": "Errore nel nome: Genesio -> Gensio; rimosso parte della frase"
+    },
+    {
+        "richiesta": "Salve, mi manca l'informazione sulla prova di Inglese Reading di Natali Fransheska Bugnot. Codice SIDI 14522798.",
+        "ruolo": "Segreteria scolastica dell'istituto RMIC83200B",
+        "modifiche": "Rimosso parte della frase"
+    },
+    {
+        "richiesta": "Buongiorno, potete spiegarmi perch\u00e9 manca la prova di Inglese Listening per Erika Dushki? Codice SIDI 14546543.",
+        "ruolo": "Dirigente scolastico dell'istituto RMIC8GV009",
+        "modifiche": "Errore nel nome: Dushku -> Dushki"
+    },
+    {
+        "richiesta": "Salve, la prova di Inglese Listening di Chiara Marcuccetti non si trova. Codice SIDI 14573368.",
+        "ruolo": "Segreteria scolastica dell'istituto RMIC8BA001",
+        "modifiche": "Rimosso parte della frase"
+    },
+    {
+        "richiesta": "Buongiorno, come mai non vedo la prova di Inglese Reading per Ivan Culasso? Codice SIDI 14576762.",
+        "ruolo": "Dirigente scolastico dell'istituto RMIC83200B",
+        "modifiche": "Rimosso parte della frase"
+    },
+    {
+        "richiesta": "Salve, non trovo la prova di Italiano per Andrea Aracco. Codice SIDI 14589248, potete verificare?",
+        "ruolo": "Segreteria scolastica dell'istituto RMIC804007",
+        "modifiche": "Rimosso parte della frase"
+    },
+    {
+        "richiesta": "Buongiorno, perch\u00e9 manca la prova di Italiano per Francesca Armando? Codice SIDI 14596835.",
+        "ruolo": "Dirigente scolastico dell'istituto RMIC85800G",
+        "modifiche": "Rimosso parte della frase"
+    },
+    {
+        "richiesta": "Buongiorno, vorrei sapere come mai manca la prova di Italiano per Sara Alessi, codice SIDI 14617978, classe 2B, nel sito. Grazie!",
+        "ruolo": "Segreteria scolastica dell'istituto RMIC804007",
+        "modifiche": [
+            "Errore nella classe",
+            "Rimozione di 'delucidazioni'"
+        ]
+    },
+    {
+        "richiesta": "Salve, cerco info sulla prova di Italiano per Martina Alba Gallicci, codice SIDI 14675196, classe 2F. Non la vedo online, potete controllare? Grazie.",
+        "ruolo": "Segreteria scolastica dell'istituto RMIC8A100A",
+        "modifiche": [
+            "Errore nel cognome",
+            "Rimozione di 'elenco online'"
+        ]
+    },
+    {
+        "richiesta": "Gentili, la prova di Italiano per Achraf Cesano, codice SIDI 14680499, classe 2E, non appare sul sito. Potete verificare?",
+        "ruolo": "Segreteria scolastica dell'istituto RMIC8D2002",
+        "modifiche": [
+            "Rimozione di 'istituzionale'",
+            "Rimozione di 'Chiedo cortesemente'"
+        ]
+    },
+    {
+        "richiesta": "Buonogiorno, perch\u00e9 la prova di Inglese Reading per Carola Porazza, codice SIDI 14692277, classe 2B, non \u00e8 sul sito? Attendo riscontro.",
+        "ruolo": "Segreteria scolastica dell'istituto RMIC83200B",
+        "modifiche": [
+            "Errore di battitura in 'Buongiorno'",
+            "Rimozione di 'nostro'"
+        ]
+    },
+    {
+        "richiesta": "Salve, chiedo chiarimenti sulla prova di Inglese Reading per Marijana Bella, codice SIDI 14706166, classe 2A, non la trovo online. Grazie.",
+        "ruolo": "Segreteria scolastica dell'istituto RMIC83200B",
+        "modifiche": [
+            "Errore nella classe",
+            "Rimozione di 'nel nostro sito'"
+        ]
+    },
+    {
+        "richiesta": "Buongiorno, segnalo assenza prova di Italiano per Marco Bonelli, codice SIDI 14754964, classe 2A, nel nostro sito. Potete verificare? Grazie.",
+        "ruolo": "Segreteria scolastica dell'istituto RMIC8DR00R",
+        "modifiche": [
+            "Rimozione di 'che la prova di'",
+            "Rimozione di 'elenco online'"
+        ]
+    },
+    {
+        "richiesta": "Gentili signori, manca la prova di Italiano per Quoc Anh Massone, codice SIDI 14856031, classe 2A, sul sito. Grazie.",
+        "ruolo": "Segreteria scolastica dell'istituto RMIC8DE00D",
+        "modifiche": [
+            "Rimozione di 'desidero avere chiarimenti riguardo l'assenza della'"
+        ]
+    },
+    {
+        "richiesta": "Salve, non vedo l'esame di Matematica di Denis Valler, codice SIDI 14858171, classe 2B. Mi date un'occhiata?",
+        "ruolo": "Dirigente scolastico dell'istituto RM1M2E5007",
+        "modifiche": "Errore nel cognome, semplificata la richiesta"
+    },
+    {
+        "richiesta": "Ciao, manca l'esame di Inglese Reading per Tommaso Alessandria, codice SIDI 14944265. Potete controllare?",
+        "ruolo": "Segreteria scolastica dell'istituto RMIC83200B",
+        "modifiche": "Rimossa la classe, semplificata la richiesta"
+    },
+    {
+        "richiesta": "Buongiorno, non c'\u00e8 la prova di Italiano per Eleonora Gonella, codice SIDI 14949201, classe 2F. Potreste verificare?",
+        "ruolo": "Dirigente scolastico dell'istituto RMIC8A100A",
+        "modifiche": "Semplificata la richiesta"
+    },
+    {
+        "richiesta": "Salve, manca l'esame di Inglese Listening di Andrea Roncarati, codice SIDI 16936771, classe 2C. Potete dare un'occhiata?",
+        "ruolo": "Segreteria scolastica dell'istituto RMIC8D6009",
+        "modifiche": "Semplificata la richiesta"
+    },
+    {
+        "richiesta": "Buongiorno, non trovo la prova di Matematica di Miriam Pozzo, codice SIDI 19367628, classe 2B. Potreste verificare?",
+        "ruolo": "Dirigente scolastico dell'istituto RM1M07100G",
+        "modifiche": "Semplificata la richiesta"
+    },
+    {
+        "richiesta": "Salve, manca l'esame di Italiano per Alessia Lunati, codice SIDI 19385701, classe 2F. Potete controllare?",
+        "ruolo": "Segreteria scolastica dell'istituto RMIC8A100A",
+        "modifiche": "Semplificata la richiesta"
+    },
+    {
+        "richiesta": "Buongiorno, non vedo la prova di Italiano di Giusirosalia Silvera Flores, codice SIDI 20936356, classe 2C. Potete verificare?",
+        "ruolo": "Dirigente scolastico dell'istituto RMIC8EV004",
+        "modifiche": "Semplificata la richiesta"
+    },
+    {
+        "richiesta": "Buongiorno, mi servirebbe sapere qualcosa sull'assenza della prova d'Italiano per Edoardo Giordino (codice SIDI: 21908987) della classe 2A. Potete verificare?",
+        "ruolo": "Dirigente scolastico dell'istituto RM1M087005",
+        "modifiche": "Correzione del cognome da Giordano a Giordino, rimozione del riferimento al sito istituzionale"
+    },
+    {
+        "richiesta": "Salve, cerco info sulla prova d'Italiano che manca per Luca Nunes (codice SIDI: 22006757) della 2B sul sito. Potreste aiutarmi?",
+        "ruolo": "Segreteria scolastica dell'istituto RMIC8EV004",
+        "modifiche": "Cognome corretto da Nugnes a Nunes, classe cambiata da 2C a 2B"
+    }
+]
